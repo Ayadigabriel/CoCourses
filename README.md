@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+Authors :
+
+- Thibault Hareau
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
